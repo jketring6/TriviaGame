@@ -1,0 +1,14 @@
+body {
+	background-image: url("../images/hpbg.jpg");
+	background-size: 100% auto;
+}
+
+.col-md-8 {
+	text-align: center;
+	color: white;
+	margin-bottom: 20px;
+}
+
+#radio {
+	margin-right: 5px;
+}
